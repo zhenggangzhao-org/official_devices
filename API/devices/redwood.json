@@ -1,24 +1,22 @@
 {
-    "maintainer": [
+    "error": false,
+    "version": "fourteen",
+    "filename": "PixelOS_redwood-14.0-20240709-0944.zip",
+    "datetime": 1720533087,
+    "size": 2573053247,
+    "url": "https://sourceforge.net/projects/pixelos-redwood/files/14.0-20240709-0944/PixelOS_redwood-14.0-20240709-0944.zip/download",
+    "github_releases_url": "",
+    "filehash": "520fd0788bf5a66f7d36352477156ab2",
+    "id": "520fd0788bf5a66f7d36352477156ab2",
+    "maintainers": [
         {
-            "display_name": "Galen",
-            "telegram": "",
-            "github": "https://github.com/galenzhao"
+            "main_maintainer": false,
+            "github_username": "galenzhao",
+            "name": "Galen"
         }
     ],
-    "updater": true,
-    "beta": false,
-    "version": "fourteen",
-    "available_versions": [
-        "fourteen"
-    ],
-    "release": "",
-    "device_display_name": "Xiaomi Poco X5 Pro 5G",
-    "device_display_codename": "redwood",
-    "public_download": "https://sourceforge.net/projects/pixelos-redwood/files/",
-    "last_updated": "",
-    "private_download_tag": "",
-    "active": true,
-    "customRecoveryRequired": true,
-    "xda": ""
+    "donate_url": "",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": "https://sourceforge.net/projects/pixelos-redwood/files/"
 }
