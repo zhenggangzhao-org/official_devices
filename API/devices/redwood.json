@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_redwood-14.0-20240711-1206.zip",
-    "datetime": 1720690691,
-    "size": 2573030076,
-    "url": "https://192-168-31-119.local.zhenggangzhao.org/files/PixelOS_redwood-14.0-20240711-1206.zip",
+    "filename": "PixelOS_redwood-14.0-20240711-1336.zip",
+    "datetime": 1720706116,
+    "size": 2573030224,
+    "url": "https://192-168-31-119.local.zhenggangzhao.org/files/PixelOS_redwood-14.0-20240711-1336.zip",
     "github_releases_url": "",
-    "filehash": "325a38f5a15992e95f476de450654544",
-    "id": "325a38f5a15992e95f476de450654544",
+    "filehash": "28baa144099d2fcc08f67222a196b996",
+    "id": "28baa144099d2fcc08f67222a196b996",
     "maintainers": [
         {
             "main_maintainer": false,
