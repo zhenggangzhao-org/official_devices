@@ -1,13 +1,13 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "Please_upgrade_to_20240711-1815_with_ADB_sideload_first!",
-    "datetime": 1720721705,
-    "size": 2573030404,
-    "url": "https://192-168-31-119.local.zhenggangzhao.org/files/PixelOS_redwood-14.0-20240711-1815.zip",
-    "github_releases_url": "",
-    "filehash": "dda6857acee6daeda76b5bbb508d4a90",
-    "id": "dda6857acee6daeda76b5bbb508d4a90",
+    "filename": "PixelOS_redwood-14.0-20240722-1818.zip",
+    "datetime": 1720515029,
+    "size": 2589923990,
+    "url": "https://sourceforge.net/projects/pixelos-redwood/files/14.0-20240722-1818/PixelOS_redwood-14.0-20240722-1818.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-redwood/files/14.0-20240722-1818/PixelOS_redwood-14.0-20240722-1818.zip",
+    "filehash": "9c773b86fc475315de052b4c5e336970",
+    "id": "9c773b86fc475315de052b4c5e336970",
     "maintainers": [
         {
             "main_maintainer": false,
