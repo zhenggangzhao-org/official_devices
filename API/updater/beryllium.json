@@ -1,26 +1,22 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_beryllium-14.0-20240628-1812.zip",
-    "datetime": 1719598277,
-    "size": 2273532208,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240628-1812.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240628-1812.zip",
-    "filehash": "ee7571f1da8a4dfc14c2c48b392d442b",
-    "id": "ee7571f1da8a4dfc14c2c48b392d442b",
+    "filename": "PixelOS_beryllium-14.0-20240920-0942.zip",
+    "datetime": 1726825282,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2151614452,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240920-0942.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/beryllium/PixelOS_beryllium-14.0-20240920-0942.zip",
+    "filehash": "9dccb345fe9aa3e942c5339ddc9ccc28",
+    "id": "9dccb345fe9aa3e942c5339ddc9ccc28",
     "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "sajidshahriar72543",
-            "name": "PaperBoy"
-        },
         {
             "main_maintainer": false,
             "github_username": "resist15",
             "name": "Sourav"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": "https://xdaforums.com/t/rom-12-official-pixelos-aosp-stable-12-02-2022.4401621/"

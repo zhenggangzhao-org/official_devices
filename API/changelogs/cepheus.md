@@ -1,3 +1,20 @@
+# 25-Aug-2024
+- Switch back to nabu V13.0.3.0.RKXCNXM graphics stack (Fixes Magic Eraser crash and crash while trying to edit on Google Photos)
+
+# 21-Aug-2024
+- Fixed OK Google hotword detection
+- Fixed media playback issues
+- Switch to QTI Memtrack AIDL HAL
+- Update Adreno stack to 530.54
+- Improved performance and idle drain consumption
+- Upstream kernel to 4.14.350-openela
+
+# 24-Jul-2024
+- Build missing libraries for A14 QPR3
+- Remove software OMX Codecs
+- Merge tag v4.14.349-openela
+- Merge tag LA.UM.9.1.r1-16300-SMxxx0.QSSI14.0
+
 # 29-May-2024
 - Source upstream
 

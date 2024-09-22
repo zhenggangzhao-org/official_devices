@@ -1,13 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_lunaa-14.0-20240423-1327.zip",
-    "datetime": 1713878737,
-    "size": 2475683139,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240423-1327.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240603-1823.zip",
-    "filehash": "25ed54b60fe5975e8b565b0f356cb8e7",
-    "id": "25ed54b60fe5975e8b565b0f356cb8e7",
+    "filename": "PixelOS_lunaa-14.0-20240823-1406.zip",
+    "datetime": 1724421909,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2664297249,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240823-1406.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lunaa/PixelOS_lunaa-14.0-20240823-1406.zip",
+    "filehash": "6e5e902b003832788f6a23de1e218e33",
+    "id": "6e5e902b003832788f6a23de1e218e33",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -15,7 +16,7 @@
             "name": "Muhammad Nauman"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": ""

@@ -1,3 +1,20 @@
+# 21-Aug-2024
+- Source upstream
+- Upstream kernel
+- Added per app refresh rate
+- Apply NLSound 4.0 optimization for dolby
+- New Dolby eq from PA
+- Switch to Uclamp & Pelt
+- Added CASS
+- Reduced latency (Kernel side)
+
+# 25-Jul-2024
+- Added dolby support
+- Dropped KProfiles
+- Disabled volume leveler
+- Updated CarrierConfig from munch V816.0.2.0.ULMMIXM
+- Updated patched ims from munch
+
 # 28-May-2024
 - Update blobs from munch HyperOS OS1.0.1.0.ULMMIXM
 - Switch to common libqti-perfd-client and power-libperfmgr

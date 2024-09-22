@@ -1,13 +1,14 @@
 {
     "error": false,
     "version": "fourteen",
-    "filename": "PixelOS_toco-14.0-20240222-0323.zip",
-    "datetime": 1708572106,
-    "size": 2331198048,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/toco/PixelOS_toco-14.0-20240222-0323.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/toco/PixelOS_toco-14.0-20240531-2001.zip",
-    "filehash": "a744374e8f084019c1268b73e01c96ba",
-    "id": "a744374e8f084019c1268b73e01c96ba",
+    "filename": "PixelOS_toco-14.0-20240825-2053.zip",
+    "datetime": 1724619109,
+    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
+    "size": 2374558750,
+    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/toco/PixelOS_toco-14.0-20240825-2053.zip",
+    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/toco/PixelOS_toco-14.0-20240825-2053.zip",
+    "filehash": "e8b4013fb531f9833f2e96a6dfc43e9f",
+    "id": "e8b4013fb531f9833f2e96a6dfc43e9f",
     "maintainers": [
         {
             "main_maintainer": false,
@@ -15,7 +16,7 @@
             "name": "Dennis Murimi"
         }
     ],
-    "donate_url": "",
+    "donate_url": "https://blog.pixelos.net/docs/donate",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-stable.4652595/"

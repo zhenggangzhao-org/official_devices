@@ -1,3 +1,12 @@
+# 03-Aug-2024
+- Source upstream
+
+# 24-Jul-2024
+- Switch to QCOM performance configurations
+- Switch to memtrack AIDL service
+- NT36672c improvements
+- Remove software omx codec references
+
 # 20-Jun-2024
 - Get rid of libinit
 - Improved power consumption and performance

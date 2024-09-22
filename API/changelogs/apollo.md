@@ -1,3 +1,18 @@
+# 22-Aug-2024
+- Upstream kernel
+- Switch to Uclamp & Pelt
+- Added CASS
+- Reduced latency (Kernel side)
+
+# 30-Jul-2024
+- Source upstream
+
+# 23-Jul-2024
+- Updated nexus kernel
+- powerhint optimizations 
+- build liblz4
+- Toggle UFS powersaving during boot phases
+
 # 04-Jun-2024
 - Rebased kernel over los kernel
 - Update battery data apollo's cells (no more ov)

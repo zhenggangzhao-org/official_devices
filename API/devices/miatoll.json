@@ -1,9 +1,9 @@
 {
     "maintainer": [
         {
-            "display_name": "PaperBoy",
-            "telegram": "https://t.me/paperboy22",
-            "github": "https://github.com/sajidshahriar72543"
+            "display_name": "Debayan Kar",
+            "telegram": "https://t.me/kardebayan",
+            "github": "https://github.com/kardebayan"
         }
     ],
     "updater": true,
@@ -15,12 +15,12 @@
         "fourteen"
     ],
     "release": "monthly",
-    "device_display_name": "Redmi Note 9s/Pro/Pro Max & Poco M2 Pro",
+    "device_display_name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
     "device_display_codename": "miatoll",
     "public_download": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/miatoll/",
-    "last_updated": "05 June 2024",
-    "private_download_tag": "miatoll_202406041350",
-    "active": true,
+    "last_updated": "21 August 2024",
+    "private_download_tag": "miatoll_202408201015",
+    "active": false,
     "customRecoveryRequired": true,
     "xda": "https://xdaforums.com/t/rom-12-1-official-pixelos-aosp-stable-18-06-2022.4458923/"
 }

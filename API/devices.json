@@ -73,6 +73,15 @@
             "active": false
         },
         {
+            "codename": "aston",
+            "codename_alt": "aston",
+            "vendor": "OnePlus",
+            "model": "OnePlus 12R/ACE 3 5G",
+            "maintainer_name": "InFeRnO",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "hotdog",
             "codename_alt": "OnePlus7TPro",
             "vendor": "OnePlus",
@@ -109,13 +118,13 @@
             "active": true
         },
         {
-            "codename": "larry",
-            "codename_alt": "larry",
-            "vendor": "OnePlus",
-            "model": "OnePlus Nord CE 3 Lite/OnePlus Nord N30",
-            "maintainer_name": "Sugakesshaa",
+            "codename": "miatoll",
+            "codename_alt": "curtana/joyeuse/excalibur/gram",
+            "vendor": "Xiaomi",
+            "model": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
+            "maintainer_name": "Debayan Kar",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "citrus",
@@ -131,16 +140,16 @@
             "codename_alt": "surya/karna",
             "vendor": "Xiaomi",
             "model": "POCO X3 NFC",
-            "maintainer_name": "Ragy",
+            "maintainer_name": "Debayan Kar",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "vayu",
             "codename_alt": "vayu/bhima",
             "vendor": "Xiaomi",
             "model": "POCO X3 Pro",
-            "maintainer_name": "clhex",
+            "maintainer_name": "Sourav & Clhex",
             "frame": null,
             "active": true
         },
@@ -158,16 +167,16 @@
             "codename_alt": "marble/marblein",
             "vendor": "Xiaomi",
             "model": "Poco F5/ Redmi Note 12 Turbo",
-            "maintainer_name": "Saikiran",
+            "maintainer_name": "Aditya",
             "frame": null,
-            "active": false
+            "active": true
         },
         {
             "codename": "beryllium",
             "codename_alt": "beryllium",
             "vendor": "Xiaomi",
             "model": "Pocophone F1",
-            "maintainer_name": "Sourav and PaperBoy",
+            "maintainer_name": "Sourav",
             "frame": null,
             "active": true
         },
@@ -230,7 +239,7 @@
             "codename_alt": "sky/skyin",
             "vendor": "Xiaomi",
             "model": "Redmi 12 5G / Poco M6 Pro",
-            "maintainer_name": "Sushmit and jendermine",
+            "maintainer_name": "jendermine",
             "frame": null,
             "active": true
         },
@@ -334,15 +343,6 @@
             "active": true
         },
         {
-            "codename": "miatoll",
-            "codename_alt": "curtana/joyeuse/excalibur/gram",
-            "vendor": "Xiaomi",
-            "model": "Redmi Note 9S/Pro/Pro Max & Poco M2 Pro",
-            "maintainer_name": "PaperBoy",
-            "frame": null,
-            "active": true
-        },
-        {
             "codename": "f62",
             "codename_alt": "f62/m62",
             "vendor": "Samsung",
@@ -365,6 +365,15 @@
             "codename_alt": "d1",
             "vendor": "Samsung",
             "model": "Samsung Galaxy Note10",
+            "maintainer_name": "Fellipe Lima",
+            "frame": null,
+            "active": true
+        },
+        {
+            "codename": "d1x",
+            "codename_alt": "d1x",
+            "vendor": "Samsung",
+            "model": "Samsung Galaxy Note10 5G",
             "maintainer_name": "Fellipe Lima",
             "frame": null,
             "active": true
@@ -464,7 +473,7 @@
             "codename_alt": "lisa",
             "vendor": "Xiaomi",
             "model": "Xiaomi 11 Lite 5G NE",
-            "maintainer_name": "Pascoato and Karan",
+            "maintainer_name": "Karan",
             "frame": null,
             "active": true
         },
@@ -478,8 +487,8 @@
             "active": true
         },
         {
-            "codename": "zeus",
-            "codename_alt": "zeus",
+            "codename": "dagda",
+            "codename_alt": "zeus/dagda",
             "vendor": "Xiaomi",
             "model": "Xiaomi 12 Pro",
             "maintainer_name": "Thomas Dada",
@@ -514,6 +523,15 @@
             "active": true
         },
         {
+            "codename": "grus",
+            "codename_alt": "grus",
+            "vendor": "Xiaomi",
+            "model": "Xiaomi Mi 9 SE",
+            "maintainer_name": "Tkiliay",
+            "frame": null,
+            "active": true
+        },
+        {
             "codename": "toco",
             "codename_alt": "toco",
             "vendor": "Xiaomi",
@@ -529,7 +547,7 @@
             "model": "moto g9/play",
             "maintainer_name": "MD Raza",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "r5x",
@@ -538,7 +556,7 @@
             "model": "realme 5/5i/5s",
             "maintainer_name": "kardebayan",
             "frame": null,
-            "active": true
+            "active": false
         },
         {
             "codename": "RMX2001L1",
